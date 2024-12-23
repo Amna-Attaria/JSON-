@@ -1,0 +1,48 @@
+{
+"employee" : [
+    {
+        "Name" : "Sadia",
+        "Age" : 20,
+        "Gender" : "Female",
+        "email" : "Sadia52@gmail.com",
+        "imgUpload" : "img/emp1.jpg"
+    },
+    {
+        "Name" : "Ubaid",
+        "Age" : 18,
+        "Gender" : "Male",
+        "email" : "udaid85@gmail.com",
+        "imgUpload" : "img/emp2.jpg"
+    },
+    {
+        "Name" : "Fatima",
+        "Age" : 21,
+        "Gender" : "Female",
+        "email" : "fatima875@gmail.com",
+        "imgUpload" : "img/emp3.jfif"
+    },
+    {
+        "Name" : "Hyder",
+        "Age" : 19,
+        "Gender" : "Male",
+        "email" : "hyder59@gmail.com",
+        "imgUpload" : "img/emp4.png"
+    }
+    ,
+    {
+        "Name" : "Habiba",
+        "Age" : 22,
+        "Gender" : "Female",
+        "email" : "habiba694@gmail.com",
+        "imgUpload" : "img/emp5.jpg"
+    },
+    {
+        "Name" : "Sadia",
+        "Age" : 20,
+        "Gender" : "Female",
+        "email" : "Sadia52@gmail.com",
+        "imgUpload" : "img/emp1.jpg"
+    }
+
+]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON</title>
+</head>
+<body>
+  <script>
+    // Object
+    // var student = {
+    //     firstName : "Ahmed",
+    //     lastName  : " Raza",
+    //     age : 16,
+    //     Gender : "Male",
+    // }
+    // document.write ("your first name is " +student.firstName + "<br>");
+    // JSON document.write
+    //  var student = {
+    //     "firstName" : "Ahmed",
+    //     "lastName"  : " Raza",
+    //     "age" : 16,
+    //     "Gender" : "Male",
+    // }
+    // document.write("your first name is " + student.firstName + "<br>");
+    // JSON by using loop
+      var student = {
+        "firstName" : "Ahmed",
+        "lastName"  : " Raza",
+        "age" : 16,
+        "Gender" : "Male",
+    }
+    for(var item in student)
+    {
+        document.write ( student[item] + "<br>")
+    }
+
+  </script>  
+</body>
+</html>
